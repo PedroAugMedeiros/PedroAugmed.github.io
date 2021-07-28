@@ -1,33 +1,79 @@
 
-     h1 {
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
-    text-align: center;
+ h1 {
+ font-family:Verdana, Geneva, Tahoma, sans-serif;
+ text-align: center;
  }
-  p  {
-   font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
- }
+ 
+ 
  body {
-  color: lawngreen; background-color: 000;
+  color: lawngreen;
+   background-color: 000;
+
+}
+ ul {
+  color: #551A8B;
+  padding-left: 20px;
+  text-align: justify;
  }
-  .define-tamanho1 {    font-size: 22px;
-  }
- .define-tamanho2 {  font-size: 25px;
-   }  .define-tamanho3 {   font-size: 20px;
- }
-  .define-tamanho4 {
-    font-size: 30px;
- }
+ 
  H2 {
- font-size: 2em;
+ font-size: 1,5em;
+ color:lawngreen;
+
+ 
   }
+.imagemEdescription {
+  position:relative;
+  text-align: center;
+  margin-top: 0px;
+  background-color: 551A8B;
+  padding-top: 50px;
+
+}
+
+footer { 
+  background-color:#551A8B;
+  color: lawngreen;
+  display: block;
+  width: 1366px;
+}
+
+
+
+.foot {
+ background-color:  #551A8B;
+  margin-top:300px;
+}
 
 .image {
-    float: left;
-    padding-top: 10px; 
-    padding-right: 10px;
-    padding-bottom: 10px;
-    padding-left: 10px;
-    background-color: white;
-    
+  border-radius: 50%;
+  position: relative;
 }
+
+.box {
+  color:#551A8B;
+  display: inline-block;
+  line-height: 50px;
+  text-align: center;
+  vertical-align: top;
+  height: 100px;
+  width: 400px;
+  padding: 100px;
+  border: 100px;
+}
+ .boxdois {
+  color:#551A8B;
+  display: block;
+  line-height: 50px;
+  text-align: center;
+  margin-left: 400px;
+  height: 100px;
+  width: 400px;
+  padding: 100px;
+  border: 100px;
+background-color:#551A8B ;
+ }
+    
+    
+
 
